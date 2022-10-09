@@ -4,10 +4,15 @@
 The purpose of the project was to analyse total daily volume for each tiker in the workbook. Additionally, also to calcualte percentage return of ticker in each year 2017 and 2018.
 
 ## Results
+Looking at results from refactored code in the VBA. Results show both the table and time taken to complete the task assigned for the code.
 ### Results from the year 2018
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/103918169/194775490-6bdd1887-b0bc-4452-91ff-b41f96d17375.png)
 
+![VBA_Challenge_time_2018](https://user-images.githubusercontent.com/103918169/194775491-8b8f77b9-1de6-46fb-9178-fd8dde76e4af.png)
 
 ### Results from the year 2017
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/103918169/194775492-b7ecff2b-2f87-43fe-b6cf-411297a20984.png)
+![VBA_Challenge_time_2017](https://user-images.githubusercontent.com/103918169/194775494-76bed818-c210-4daa-bef2-4418e6c6cff8.png)
 
 ## Summary
 ### Advantages and disadvantages of refactoring code in general
